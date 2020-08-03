@@ -4,7 +4,14 @@ A2E is a CNN based system which coverts static hand gestures of the American Sig
 
 It uses various libraries like <b>TensorFlow (Keras)</b>, <b>scikit-learn</b>, <b>OpenCV</b>, etc for different purposes. Concepts used are CNN, Data Augmentation and Transfer Learning.
 
-A2E does the conversion in real time.
+A2E does the conversion in real time. 
+
+Concepts learned and used during this project:
+<ul>
+<li> Convolutional Neural Network
+<li> Transfer Learning
+<li> Image Augmentation
+</ul>
 
 <h1>DATA COLLECTION AND CLEANING</h1>
 
