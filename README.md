@@ -14,7 +14,7 @@ Hence, the "webcam data.ipynb" notebook. We used this notebook to take and save 
 
 <h1>DATA AUGMENTATION AND PREPROCESSING</h1>
 
-Coming soon
+The amount of data we had was not enough to counteract overfitting and decent genrealization. So we had to use data augmentation. We used the <br>ImageDataGenerator</br> class for this purpose. The training data was allowed to me augmented in various ways, but the validation and test data only went through Normalization ( division by 255 ).
 
 <h1>SHALLOW CNN MODEL</h1>
 
