@@ -18,11 +18,11 @@ The amount of data we had was not enough to counteract over fitting and decent g
 
 <h1>SHALLOW CNN MODEL</h1>
 
-We tried various models before we could finalize one. The model was giving about 86-90% accuracy before we started hypertunning it. We used the "Custom GridSearch w Augmentation.ipynb" notebook to achieve this. After this the model was giving about 92-96% accuracy. The problem with these models was that they could not perform well on the "testing live.ipynb" notebook even after having nice accuracies on the train-validate-test sets.
+We tried various models before we could finalize one. The model was giving about 86-90% accuracy before we started hyper-tuning it. We used the "Custom GridSearch w Augmentation.ipynb" notebook to achieve this. After this the model was giving about 92-96% accuracy. The problem with these models was that they could not perform well on the "testing live.ipynb" notebook even after having nice accuracies on the train-validate-test sets.
 
 <h1>TRANSFER LEARNING</h1>
 
-After realizing that the Shallow CNN might not make the cut we decided to give transfer learning a shot. 
+After realizing that the Shallow CNN might not make the cut we decided to give transfer learning a shot. We tried various architectures with per-trained weights on the ImageNet data-set. Finally we landed on the conclusion that VGG16 with a single layer ANN on it works the best. After that, it was the hyper-tuning game again. This model gave an accuracy around 89% which disappointed us in the beginning, but after using it on the "testing live.ipynb" notebook it was declared the ultimate winner.
 
 <h1>CONCLUSION AND FINAL OUTCOME</h1>
 
