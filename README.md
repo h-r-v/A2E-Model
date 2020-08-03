@@ -18,7 +18,7 @@ The amount of data we had was not enough to counteract overfitting and decent ge
 
 <h1>SHALLOW CNN MODEL</h1>
 
-Coming soon
+We tried various models before we could finalize one. The model was giving about 86-90% accuracy before we started hypertunning it. We used the "Custom GridSearch w Augmentation.ipynb" notebook to achieve this. After this the model was giving about 92-96% accuracy. The problem with these models was that they could not perform well on the "testing live.ipynb" notebook even after having nice accuracies on the train-validate-test sets.
 
 <h1>TRANSFER LEARNING</h1>
 
