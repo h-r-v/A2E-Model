@@ -11,7 +11,6 @@ Concepts learned and used during this project:
 <li> Convolutional Neural Network
 <li> Transfer Learning
 <li> Image Augmentation
-<li> OpenCV
 </ul>
 
 <h1>DATA COLLECTION AND CLEANING</h1>
