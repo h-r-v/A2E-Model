@@ -34,3 +34,6 @@ After realizing that the Shallow CNN might not make the cut we decided to give t
 <h1>CONCLUSION AND FINAL OUTCOME</h1>
 
 Using the "testing live.ipynb" notebook , we were able to convert the American Sign Language Alphabets to English Text in realtime by using the <b>OpenCV</b> library. The model performs perfectly well with decent lights and plain background. Even though the model achieved an overall accuracy of 89% , it still converts all the American Sign Language Alphabets to English text perfectly. 
+
+
+You can download the <a href="https://github.com/rushilrai/A2E">APK</a> here.
