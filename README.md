@@ -1,16 +1,16 @@
 <h1>ABSTRACT</h1>
 
-A2E is a CNN based system which coverts static hand gestures of the American Sign Language to English Text. A2E aims to solve reduce the communication between an average person and a differently-abled person.
+A2E is a CNN based system which coverts static hand gestures of the American Sign Language to English Text. A2E aims to solve/reduce the communication gap between an average person and a differently-abled person.
 
-It uses various libraries like <b>TensorFlow (Keras)</b>, <b>scikit-learn</b>, <b>OpenCV</b>, etc for different purposes. Various concepts have been implemented, amog which a few are : CNN, Data Augmentation and Transfer Learning.
+It uses various libraries like TensorFlow (Keras), scikit-learn, OpenCV, etc for different purposes. Various concepts have been used for this project, such as: CNN, Data Augmentation and Transfer Learning.
 
-A2E does the conversion in real time. 
+A2E does the conversion in real time.
 
 Concepts learned and used during this project:
 <ul>
-<li> Convolutional Neural Network
-<li> Transfer Learning
-<li> Image Augmentation
+<li>Convolutional Neural Network
+<li>Transfer Learning
+<li>Image Augmentation
 </ul>
 
 <h1>DATA COLLECTION AND CLEANING</h1>
